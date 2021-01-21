@@ -1,4 +1,4 @@
-# This is a sample Python script.
+# Alex Jiménez Pozo
 
 def main():
     print("Hello world")
@@ -38,4 +38,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
