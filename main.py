@@ -16,7 +16,7 @@ def main():
         if qn < 11:
             i += 1
         else:
-            qn = int(input("Malament! Introdueix un numero entre el 0 i el 10:"))
+            qn = int(input("¡Malament! Introdueix un numero entre el 0 i el 10:"))
 
         if qn > 4:
             ap += 1
