@@ -5,7 +5,7 @@ def main():
     impares = []
 
     for i in range(n):
-        num = int(input("Introdueix un numero entre el 0 i el 10:"))
+        num = int(input("Introdueix un numero entre el 0 i el 10: "))
         if num < 11:
             i += 1
             if num % 2 == 0:
